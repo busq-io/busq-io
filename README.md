@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @busq-io (aka Wilbert)
 - 👀 I’m interested in learning how to use Git & Github in the Salesforce space
-- 🌱 I’m currently learning AI, Test Automation with Provar and using Git
+- 🌱 I’m currently learning Data Cloud, Agentforce, Development Lifecycle and Deployment and using Git
 - 💞️ I’m looking to collaborate in the area of BA and QA in the Salesforce ecosystem
 - 📫 How to reach me: wilbert@busq.io
 
